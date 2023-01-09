@@ -1,1 +1,1 @@
-## NestJS CRUD API
+## NestJS CRUD API using Docker Prisma and PostgreSQL
